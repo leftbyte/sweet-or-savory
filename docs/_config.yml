@@ -21,7 +21,7 @@
 title: Dan Phung
 email: leftbyte@gmail.com
 description: Basic front end for food image classifier
-baseurl: "docs" # the subpath of your site, e.g. /blog
+# baseurl: "docs" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leftbyte
 github_username:  leftbyte
