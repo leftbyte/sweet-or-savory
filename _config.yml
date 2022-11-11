@@ -1,9 +1,0 @@
-remote_theme: benbalter/retlab
-plugins:
-- jekyll-remote-theme
-
-title: Dan Phung
-description: Basic front end for food image classifier
-
-author:
-  name: Dan Phung
